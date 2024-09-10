@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning general Computer Science at UOL
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: samuels.sameh@gmail.com
 
 <!--
 **Samuel611S/Samuel611S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
