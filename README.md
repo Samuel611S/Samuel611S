@@ -1,27 +1,28 @@
 # 👋 Hello, I'm Sam! 😄
-Welcome to my GitHub! I'm passionate about coding, technology, and continuous learning. Here's a little bit about me:
-### 💡 About Me
-- 🎓 **Student** at the **University of London** 
-- 💻 Love working with **Python** and exploring its endless possibilities
-- 🚀 Currently working on **Syncadia**, a Notion-inspired app to boost productivity
-- 🎯 Always looking to sharpen my skills and collaborate on exciting projects!
-### 💼 What I'm Working On:
-- ✨ **Syncadia Project** – Developing features for productivity, including a custom quiz, calendar modal, and more.
-- 🖼️ Video capture & image processing project using **p5.js**, creating fun image filters and face detection!
-### 🔧 Technologies & Tools I Use:
+
+Welcome to my GitHub! I'm a **University of London** student who loves working with **Python** and building cool projects.
+
+### 💼 Current Projects:
+- 🚀 **Syncadia** – A productivity app with custom quizzes and calendar features.
+- 🖼️ **Image Processing** with **p5.js** – Fun filters and face detection!
+
+### 🔧 Skills:
 - 🐍 **Python**
 - 🌐 **HTML / CSS / JavaScript**
 - 📊 **Git / GitHub**
-### 🌱 What I'm Learning:
-- 📚 Advanced **JavaScript** for web apps
-- 💻 **Machine Learning** and its applications
-- 🎨 Designing visually appealing web interfaces
-### 📫 How to Reach Me:
-- 📧 samuels.sameh@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/samuel-sameh-423b15239) 
+
+### 🌱 Learning:
+- 📚 Advanced **JavaScript**
+- 💻 **Machine Learning**
+
+### 📫 Reach Me:
+- 📧 samuels.sameh@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/samuel-sameh-423b15239)
+
 ---
 
-Feel free to reach out or explore my repositories. Let's code something amazing together! 💻✨ 
+Let's collaborate and build something awesome! 💻✨
+
 
 <!--
 **Samuel611S/Samuel611S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
